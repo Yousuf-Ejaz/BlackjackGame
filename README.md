@@ -1,4 +1,4 @@
-#Blackjack Game
+# Blackjack Game
 
 This is a simple blackjack Game constructed using HTML CSS and Vanilla JS.
 
