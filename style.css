@@ -1,0 +1,57 @@
+body  {
+    margin: 0;
+
+}
+
+.container  {
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 75%;
+    text-align: center;
+    padding: 0;
+}
+
+.flex-blackjack-row-1, .flex-blackjack-row-2
+{
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-around;
+    background: url(https://mk0gamesnetentcxytko.kinstacdn.com/wp-content/uploads/2018/09/blackjack_background.jpg) center;
+    color: white;
+    
+}
+
+#your-box, #dealer-box
+{
+    flex: 1;
+    border: 1px solid black;
+    height: 350px;
+}
+
+.flex-blackjack-row-2 div{
+    padding: 5px;
+    border: 1px solid black;
+}
+.flex-blackjack-row-2 button
+{
+    /* padding: 10px; */
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.flex-blackjack-row-3
+{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+.flex-blackjack-row-3 table
+{
+    margin: 0 auto;
+}
+.flex-blackjack-row-3 th ,td {
+    border: 1px solid black;
+    padding: 5px;
+}
