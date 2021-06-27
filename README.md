@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Yousuf-Ejaz/BlackjackGame">
-    <img src="./images/logo.png" alt="Logo">
+    <img src="./blackjack_assets/images/logo.png" alt="Logo">
   </a>
 
   <p align="center">
