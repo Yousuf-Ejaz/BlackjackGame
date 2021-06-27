@@ -26,10 +26,10 @@ You can  use it live here: <a href="https://blakjackgame.netlify.app/">BlackJack
 
 ### Built With
 
-- [JavaScript]
-- [HTML]
-- [CSS]
-- [BootStrap]
+- [JavaScript];
+- [HTML];
+- [CSS];
+- [BootStrap];
 
 <!-- GETTING STARTED -->
 
@@ -39,4 +39,8 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
+
+Download the ZIP file of the repository and unzip it in the local System. There you go! Ready to use.
+
+## Functionalities
 
